@@ -1,0 +1,3 @@
+Clustering is used for partitioning some points into clusters(the points close to each other compared to some other).
+We can assigned a point representing a center of a cluster and look at the squared mean and figureout the least square distance.
+Now we keep increasing those center until we reach a optimal value and mean square wouldnt decrease rapidly.
